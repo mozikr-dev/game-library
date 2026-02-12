@@ -1,5 +1,13 @@
 
 function ListGroup(){
+    const items = [
+        'New York',
+        'London',
+        'Paris',
+        'Amsterdam',
+        'Berlin'
+    ];
+
     return(
         <>
             <h1>List of jaja czyste</h1>
